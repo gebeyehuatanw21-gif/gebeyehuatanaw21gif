@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gebeyehu Atanaw
+# Hi , I'm Gebeyehu Atanaw
 
 🎓 I am an Information Systems student at Bahir Dar University  
 💻 I am passionate about web development  
